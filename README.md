@@ -5,7 +5,7 @@ Code associated with the paper titled "How weather affects visitor behavior with
 
 This repository contains many different .Rmd files used for data collection, cleaning, and analysis. It also contains some .csv files used as inputs for the R code.
 
-## Steps to run code for data collection and processing:
+### Steps to run code for data collection and processing:
 
 1.	Run python script: flickr_download_all_parks.py
     a.	Note, this is likely to take a few days
@@ -28,9 +28,9 @@ This repository contains many different .Rmd files used for data collection, cle
     b.	It will then filter the dataset to not include any photos by the same user on the same day within 10 meters of each other. Photos more than 10 meters apart by the same user are retained.
     c.	Clear R global environment before going to the next step
 8.	Run R script: adding_weather_data_VC.RMD
-    a.	This adds weather data for each point – both Flickr and control – at the visitor center of each unit the photo was taken in.
+    a.	This adds weather data for each point at the visitor center of each unit the photo was taken in.
 
-## Steps to run code for analysis (done after all the above code is run to collect & clean data):
+### Steps to run code for analysis (done after all the above code is run to collect & clean data):
 
 1.	Run R script: Visitation_Correlations.Rmd
     a.	This will get the correlations between Flickr PUD and NPS data
