@@ -1,5 +1,5 @@
 # Weather_and_spatial_behavior
-Code associated with the paper titled "How weather affects visitor behavior within U.S. national parks"
+### Code associated with the paper titled "How weather affects visitor behavior within U.S. national parks"
 
 (paper currently in prep, to be submitted shortly)
 
