@@ -8,9 +8,9 @@ This repository contains many different .Rmd files used for data collection, cle
 ### Steps to run code for data collection and processing:
 
 1.	Run python script: flickr_download_all_parks.py
-    a.	Note, this is likely to take a few days
+a.	Note, this is likely to take a few days
 2.	Run R script: data_cleaning.Rmd
-    a.	Takes about 3 hours
+a.	Takes about 3 hours
     b.	Clear R global environment before going to the next step
 3.	Run R script: adding_weather_data.Rmd
     a.	Takes 1-2 days
