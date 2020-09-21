@@ -1,7 +1,5 @@
 # Weather_and_spatial_behavior
-### Code associated with the paper titled "How weather affects visitor behavior within U.S. national parks"
-
-(paper currently in prep, to be submitted shortly)
+### Code associated with the paper titled "Social media reveal ecoregional variation in how weather influences visitor behavior in U.S. National Park Service units"(currently in review)
 
 This repository contains many different .Rmd files used for data collection, cleaning, and analysis. It also contains some .csv files used as inputs for the R code.
 
